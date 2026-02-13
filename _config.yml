@@ -1,15 +1,18 @@
 # Site settings
-title: Hi, I'm Alexandre.
-description: Alexandre Rodrigues' professional portfolio
+title: Hi, I'm Alex.
+description: Alex Rodrigues - Actuarial Analyst & Data Scientist Portfolio
 # baseurl: "" 
 url: "https://ratinhopets.github.io"
 
 # User settings
-username: Alexandre Rodrigues
+username: Alex Rodrigues
 user_title: 
-user_job_title: Actuarial Analyst & Data Scientist
-email: your.email [at] domain.com # Coloque seu email real aqui
+user_job_title: Actuarial Analyst - Pricing | Data Scientist
+email: alexrodrigues0913@gmail.com
 # twitter_username: 
 github_username: Ratinhopets
+linkedin_username: alexandre-rodrigues-de-souza-5a703424a
+instagram_username: purestats
+medium_username: alex.ufrgs0711
 
 exclude: ['package.json', 'src' , 'node_modules']
